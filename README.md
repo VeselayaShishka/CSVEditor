@@ -32,7 +32,7 @@
 
       UI gives vast functionality such as: 
             - Adding new CSV's files
-            - Filtering by fields(1st click: ascending\ 2nd click: descending\ 3rd click: default)
+            - Filtering by fields(1st click: ascending/ 2nd click: descending/ 3rd click: default)
             - Search bar given, and works with every field
             - Saving updates to the fields 
             - Deleting rows
@@ -42,7 +42,7 @@
 ### Backend Logic 
 
     CSV parsing located at Services/CsvService.cs
-    Validation of Birthday\Salary(no characters check)\Married fields located in Services/DataVAlidation.cs
+    Validation of Birthday/Salary(no characters check)/Married fields located in Services/DataVAlidation.cs
     VAlidation of FullName/Phone/Salary(MAX ammount) fields locaetd in Models/UserRecord.cs and uses EF features
 
 ### Frontend Logic 

@@ -1,0 +1,6 @@
+Error occured at: 14.02.2026 16:39:20 | Line 1 errors: Invalid Birthday: '1990-01-01'. Use dd-MM-yyyy. | Invalid Salary: 'five_thousand'. Numbers only.
+Error occured at: 14.02.2026 16:39:20 | Line 2 errors: Invalid Married status: 'maybe'. Use 'true' or 'false'.
+Error occured at: 14.02.2026 16:39:20 | Line 4 errors: Invalid Birthday: '1964-15-03'. Use dd-MM-yyyy.
+Error occured at: 14.02.2026 16:39:20 | Phone number must be in +380*********
+Error occured at: 14.02.2026 16:39:20 | English characters only in Name field
+Error occured at: 14.02.2026 16:39:20 | Number must be between 0 and 10000000

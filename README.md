@@ -13,17 +13,17 @@
 
   ### DB Initialization 
 
-      terminal in the project root directory and run 
+      open terminal in the project root directory and run 
 
-       dotnet ef database update
+           dotnet ef database update
 
-      Comman will automatically create the CsvEditorDb on your local SQL Server
+      Command will automatically create the CsvEditorDb on your local SQL Server
 
   ### Running the project
 
       Project can be started via IDE UI or by executing following command in the terminal 
 
-       dotnet run
+            dotnet run
 
   ### Testing application 
 

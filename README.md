@@ -2,7 +2,8 @@
 
 ## About 
 
-    Web applicatiom which allows user to upload a Coma Separated Values file, organizes and validates data from it allowing for quick search and sorting of the fields 
+    Web applicatiom which allows user to upload a Coma Separated Values file, 
+    organizes and validates data from it allowing for quick search and sorting of the fields 
 
 ## Technologies stack 
 
@@ -26,7 +27,8 @@
 
   ### Testing application 
 
-      There's two test files for functionality test, both of them located at '/TestCSV's', one of them contains list of correct data and the other one shows Error handling functionality 
+      There's two test files for functionality test, both of them located at '/TestCSV's', 
+      one of them contains list of correct data and the other one shows Error handling functionality 
 
       UI gives vast functionality such as: 
             - Adding new CSV's files
